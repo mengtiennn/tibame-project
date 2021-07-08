@@ -5,8 +5,9 @@
       <router-link to="/about">About</router-link>
       <p>大家來測試</p>
       <p>測試二號</p>
+      <p>moring everybody</p
     </div>
-    <router-view/>
+    <router-view />
   </div>
 </template>
 
