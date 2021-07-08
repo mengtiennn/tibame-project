@@ -7,6 +7,7 @@
       <p>測試二號</p>
       <p>moring everybody</p>
       <p>我餓了</p>
+      <p>我們來看看會不會成功</p>
     </div>
     <router-view />
   </div>
