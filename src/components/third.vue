@@ -1,4 +1,8 @@
 <template>
+  <div>
+    <h2>fred</h2>
+  </div>
+</template>
     <div>
         <h1>ggggggggggg</h1>
     </div>
