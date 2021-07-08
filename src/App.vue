@@ -4,7 +4,8 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
       <p>大家來測試</p>
-      <p>moring everybody</p>
+      <p>測試二號</p>
+      <p>moring everybody</p
     </div>
     <router-view />
   </div>
